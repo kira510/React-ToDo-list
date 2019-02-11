@@ -1,5 +1,5 @@
 ## To Do List
-This is a simple todo list where you can add a to do items and delete, edit those items.
+This is a simple todo list where you can add a to do items and delete, edit those items. You can access this on https://kira-todolist.netlify.com/ .
 
 ## Tech Stack
 1. React Js
